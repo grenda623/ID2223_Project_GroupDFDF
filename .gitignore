@@ -38,7 +38,7 @@ env/
 
 # Environment variables (IMPORTANT: Contains API Token!)
 .env
-config/api_config.py
+
 
 # Data files (too large for Git)
 data/

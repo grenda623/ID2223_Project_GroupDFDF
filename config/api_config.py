@@ -13,7 +13,7 @@ from pathlib import Path
 # ENTSO-E API Token
 # Set ENTSOE_API_TOKEN in environment variable, or fill in directly here
 # How to get: https://transparency.entsoe.eu/myAccount/webApiAccess
-API_TOKEN = os.environ.get('ENTSOE_API_TOKEN', 'YOUR_API_TOKEN_HERE')
+API_TOKEN = os.environ.get('ENTSOE_API_TOKEN', '469073ab-c3aa-4d71-887c-5a1fe89dde1f')
 
 # ENTSO-E API Base URL
 API_BASE_URL = 'https://web-api.tp.entsoe.eu/api'
